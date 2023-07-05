@@ -1,6 +1,8 @@
 let init_array = new Array(); //[]
 
-fruits = ["apple", "banana", "orange", "mellon"];
+let mixins = ["apple","banana",4,"orage"]
+
+let fruits = ["apple", "banana", "orange", "mellon"];
 
 
 
